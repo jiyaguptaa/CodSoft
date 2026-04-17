@@ -4,3 +4,17 @@
 .vscode
 train_data.txt
 train_data.odt
+
+/Credit Card Fraud Detection Dataset
+
+fraudTest.csv
+fraudTrain.csv
+
+/TASK2/fraudTrain.csv
+
+scaler.pkl
+fraud_model.pkl
+encoders.pkl
+
+/TASK2/scaler_simple.pkl
+/TASK2/model_simple.pkl
