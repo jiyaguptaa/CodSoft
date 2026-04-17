@@ -40,9 +40,11 @@ The goal of this project is to classify SMS messages as spam or legitimate (ham)
 
 ## How to Run
 
+```bash
 cd TASK3
 pip install pandas numpy scikit-learn streamlit
 streamlit run task3.py
+```
 
 ## Features
 
