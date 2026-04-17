@@ -18,3 +18,5 @@ encoders.pkl
 
 /TASK2/scaler_simple.pkl
 /TASK2/model_simple.pkl
+
+/TASK3/spam.csv
